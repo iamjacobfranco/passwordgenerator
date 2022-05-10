@@ -1,0 +1,1 @@
+in this project I was able to provide the user with an easy and straight forward method in generating a password. By creating if, then statements in the CSS the user is able to make selections that adhere to their password requirements resulting in a sophisticated and strong password. 
